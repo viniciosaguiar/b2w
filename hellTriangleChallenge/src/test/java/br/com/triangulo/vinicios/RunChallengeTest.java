@@ -2,6 +2,8 @@ package br.com.triangulo.vinicios;
 
 import org.junit.Test;
 
+import br.com.triangulo.vinicios.controller.RunChallenge;
+
 /**
  * Unit test for simple RunChallenge.
  */

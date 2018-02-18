@@ -1,4 +1,4 @@
-package br.com.triangulo.vinicios;
+package br.com.triangulo.vinicios.controller;
 
 import br.com.triangulo.vinicios.exception.TrianguloException;
 
