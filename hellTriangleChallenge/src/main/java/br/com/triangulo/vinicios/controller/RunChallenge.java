@@ -34,7 +34,6 @@ public class RunChallenge{
 	
 	private void validaTriangulo(final Long[][] triangulo) {
 		int row = 0;
-		int col = 0;
 		
 		int qtdColunaProximaLinha =0;
 		
@@ -59,8 +58,6 @@ public class RunChallenge{
 				qtdColunaProximaLinha++;
 				
 			}
-			
-				
 		}
 	}
 	
